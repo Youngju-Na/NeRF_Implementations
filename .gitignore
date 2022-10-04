@@ -2,3 +2,6 @@
 data/
 captures/
 step_1_nerf/NeRF/data/
+*.pptx
+*.ppt
+
