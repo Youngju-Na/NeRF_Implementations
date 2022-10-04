@@ -1,3 +1,4 @@
 *.png
 data/
 captures/
+step_1_nerf/nerf/data
