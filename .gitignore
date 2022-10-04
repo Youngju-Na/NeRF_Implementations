@@ -1,4 +1,4 @@
 *.png
 data/
 captures/
-step_1_nerf/nerf/data
+step_1_nerf/NeRF/data/
