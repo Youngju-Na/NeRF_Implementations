@@ -29,8 +29,18 @@ pip install -r requirements.txt
 Understanding data preprocessing pipeline is important in repducing models, especially NeRF, because it requires to understand camera models.
 I recommend to follow hypernerf data preprocessing pipeline to grasp the procedure.
 
+### available (brought from offical implementations)
+- mip-nerf [official](https://github.com/google/mipnerf.git)
+- pixel-nerf [official](https://github.com/sxyu/pixel-nerf.git)
+- hypernerf [official](https://github.com/google/hypernerf.git)
+- 
 ### Upcoming updates
 - RegNeRF
 - MVSNeRF
 
-
+### Jupyter Guide
+- NeRF
+- D-NeRF (TBU)
+- NeRFACE (TBU)
+- PixelNeRF (TBU)
+- RegNeRF(TBU)
