@@ -30,13 +30,13 @@ Understanding data preprocessing pipeline is important in repducing models, espe
 I recommend to follow hypernerf data preprocessing pipeline to grasp the procedure.
 
 ### available (brought from offical implementations)
-- mip-nerf [official](https://github.com/google/mipnerf.git)
-- pixel-nerf [official](https://github.com/sxyu/pixel-nerf.git)
-- hypernerf [official](https://github.com/google/hypernerf.git)
+- mip-nerf [github](https://github.com/google/mipnerf.git)
+- pixel-nerf [github](https://github.com/sxyu/pixel-nerf.git)
+- hypernerf [github](https://github.com/google/hypernerf.git)
 - 
 ### Upcoming updates
-- RegNeRF
-- MVSNeRF
+- RegNeRF [github](https://github.com/google-research/google-research/tree/master/regnerf)
+- MVSNeRF [github](https://github.com/apchenstu/mvsnerf)
 
 ### Jupyter Guide
 - NeRF
