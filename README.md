@@ -39,7 +39,7 @@ I recommend to follow hypernerf data preprocessing pipeline to grasp the procedu
 - MVSNeRF [github](https://github.com/apchenstu/mvsnerf)
 
 ### Jupyter Guides
-Jupyter guides pytorch implementations from scratch.
+Jupyter guides follow the PyTorch implementations of models below from scratch.
 (Data Processing, Model, train/test, visualizations)
 - NeRF
 - D-NeRF (TBU)
