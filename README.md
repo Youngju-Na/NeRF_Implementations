@@ -38,7 +38,9 @@ I recommend to follow hypernerf data preprocessing pipeline to grasp the procedu
 - RegNeRF [github](https://github.com/google-research/google-research/tree/master/regnerf)
 - MVSNeRF [github](https://github.com/apchenstu/mvsnerf)
 
-### Jupyter Guide
+### Jupyter Guides
+Jupyter guides pytorch implementations from scratch.
+(Data Processing, Model, train/test, visualizations)
 - NeRF
 - D-NeRF (TBU)
 - NeRFACE (TBU)
