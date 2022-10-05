@@ -8,7 +8,7 @@ NeRF from scratch implementations are heavily brought from [NeRF tutorial](https
 
 ## Installation
 ```
-git clone
+git clone https://github.com/YoungjuNa-KR/NeRF_Implementations.git
 cd NeRF_Implementations
 pip install -r requirements.txt
 ```
