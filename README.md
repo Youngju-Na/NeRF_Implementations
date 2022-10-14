@@ -46,3 +46,5 @@ Jupyter guides follow the PyTorch implementations of models below from scratch.
 - NeRFACE (TBU)
 - PixelNeRF (TBU)
 - RegNeRF(TBU)
+
+![image](https://user-images.githubusercontent.com/45136186/195795024-30f86fc5-6a42-4592-9910-04babfb3ff4b.png)
