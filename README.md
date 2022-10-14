@@ -47,4 +47,4 @@ Jupyter guides follow the PyTorch implementations of models below from scratch.
 - PixelNeRF (TBU)
 - RegNeRF(TBU)
 
-![image](https://user-images.githubusercontent.com/45136186/195795024-30f86fc5-6a42-4592-9910-04babfb3ff4b.png)
+![image](https://user-images.githubusercontent.com/45136186/195795464-dc809f8d-bf7f-40a5-b108-b847364e4be5.png)
