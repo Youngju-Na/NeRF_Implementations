@@ -6,4 +6,7 @@ step_1_nerf/NeRF/data/
 *.ppt
 *Dataset/
 checkpoint/
+*.tar
+*.mp4
+logs
 
