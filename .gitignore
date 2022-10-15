@@ -8,5 +8,6 @@ step_1_nerf/NeRF/data/
 checkpoint/
 *.tar
 *.mp4
-logs
+*/logs/
+
 
