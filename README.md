@@ -45,8 +45,8 @@ I recommend to follow hypernerf data preprocessing pipeline to grasp the procedu
 Jupyter guides follow the PyTorch implementations of models below from scratch.
 (Data Processing, Model, train/test, visualizations)
 - NeRF
-- D-NeRF (TBU)
-- NeRFACE (TBU)
+- D-NeRF
+- NeRFACE
 - PixelNeRF (TBU)
 - RegNeRF(TBU)
 
