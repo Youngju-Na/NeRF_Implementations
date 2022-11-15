@@ -9,5 +9,6 @@ checkpoint/
 *.tar
 *.mp4
 */logs/
+.ipynb_checkpoints/
 
 
