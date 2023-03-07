@@ -26,8 +26,7 @@ pip install -r requirements.txt
 - configargparse
 
 ### Data Preprocessing
-Understanding data preprocessing pipeline is important in repducing models, especially NeRF, because it requires to understand camera models.
-I recommend to follow hypernerf data preprocessing pipeline to grasp the procedure.
+Understanding the data preprocessing pipeline is important in reproducing models, especially NeRF because it requires understanding camera models. I recommend following the hyper-nerf data preprocessing pipeline to grasp the procedure.
 
 ### Pretrained Models
 [blender_lego_200000_iters](https://drive.google.com/file/d/1XhhzBb1bZOlRmFNtF93419jQPRfsFq-F/view?usp=sharing)
